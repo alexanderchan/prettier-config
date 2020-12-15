@@ -11,7 +11,11 @@ Just a prettier config in case I forget these two settings and so version bumps 
 
 ## Installation
 
-Add to the package.json:
+```
+$ yarn add @alexmchan/prettier-config
+```
+
+Add a lint to the package.json:
 
 ```json
  "prettier": "@alexmchan/prettier-config",
