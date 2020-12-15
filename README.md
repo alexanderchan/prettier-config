@@ -14,7 +14,7 @@ Just a prettier config in case I forget these two settings and so version bumps 
 Add to the package.json:
 
 ```json
- "prettier": "@alexnchan/prettier-config",
+ "prettier": "@alexmchan/prettier-config",
 ```
 
 or 

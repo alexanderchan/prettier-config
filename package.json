@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@alexmchan/prettier-config",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Alex Chan <achan@godaddy.com>",
+  "author": "Alex Chan <alex@alexmchan.com>",
   "license": "MIT"
 }
