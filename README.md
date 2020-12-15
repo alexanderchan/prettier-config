@@ -32,3 +32,7 @@ module.exports = {
 ```
 
 ![Prettier Banner](https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png)
+
+## Also see
+
+https://github.com/alexanderchan/eslint-config
